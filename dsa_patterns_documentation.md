@@ -213,7 +213,3 @@ This documentation encapsulates a rigorous approach to algorithmic problem-solvi
 | **Advanced** | DSU (Union-Find) | Disjoint Set | $O(\alpha(n))$ |
 | **Advanced** | Bitwise Manipulation | Integer | $O(1)$ |
 | **Advanced** | Greedy | Array | $O(n \log n)$ |
-
----
-*Signed,*  
-*BTech Computer Science and Engineering Portfolio Document.*
